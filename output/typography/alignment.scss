@@ -1,0 +1,27 @@
+// Alignment
+//
+// 整列
+//
+// Markup:
+// <p class="text-left">Left aligned text.</p>
+// <p class="text-center">Center aligned text.</p>
+// <p class="text-right">Right aligned text.</p>
+// <p class="text-justify">Justified text.</p>
+//
+// Styleguide 2.2.0
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
